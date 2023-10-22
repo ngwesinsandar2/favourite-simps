@@ -1,0 +1,44 @@
+.navbarCon {
+  position: fixed;
+  height: 100vh;
+  padding: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  width: 4% !important;
+}
+
+.navbarBox {
+  width: 100%;
+  box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
+  background-color: var(--whole-bg);
+  backdrop-filter: blur(15px) contrast(130%);
+  border-radius: 200rem;
+}
+
+.active {
+  background-color: var(--white);
+  border-radius: 50%;
+}
+
+.navLink {
+  background-color: var(--primary-pale);
+  border-radius: 50%;
+}
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .navbarCon {
+    height: 100%;
+    align-items: center !important;
+    width: 14% !important;
+  }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .navbarCon {
+    height: 100%;
+    align-items: center !important;
+    width: 8% !important;
+  }
+}
