@@ -133,7 +133,6 @@ const datas = [
 
     login_img: "/assets/images/login/cg.jpg",
   },
-
   {
     id: 2,
     movie_title: "Alchemy of Souls",
@@ -280,7 +279,6 @@ const datas = [
       },
     ],
   },
-
   {
     id: 3,
     movie_title: "Extraordinary You",
@@ -413,7 +411,6 @@ const datas = [
       },
     ],
   },
-
   {
     id: 4,
     movie_title: "Our Beloved Summer",
@@ -564,7 +561,6 @@ const datas = [
       },
     ],
   },
-
   {
     id: 5,
     movie_title: "The Witch: Part 1. The Subversion",
@@ -689,7 +685,6 @@ const datas = [
       },
     ],
   },
-
   {
     id: 6,
     movie_title: "Alice In Borderland",
@@ -808,7 +803,6 @@ const datas = [
       },
     ],
   },
-
   {
     id: 7,
     movie_title: "The K2",
@@ -925,6 +919,131 @@ const datas = [
         gallery_img:
           "https://i.pinimg.com/564x/41/55/e5/4155e55a141b884b03cba6a8ce9a25a5.jpg",
       },
+    ],
+  },
+  {
+    id: 8,
+    movie_title: "Doctor Slump",
+    movie_link: "https://en.wikipedia.org/wiki/Doctor_Slump_(TV_series)",
+    video:
+      "https://v1.pinimg.com/videos/mc/720p/4e/68/93/4e68938efafeab901a179424b98a874d.mp4",
+    ori_video_link: "https://www.pinterest.com/pin/889179520170803022/",
+    primary_color: "#009245",
+
+    scenes: [
+      {
+        id: 1,
+        scene_img: "https://i.pinimg.com/originals/1b/fb/76/1bfb761a77ba88e16b39d7a57595c816.jpg",
+        scene_title: "1. Interview",
+      },
+      {
+        id: 2,
+        scene_img: "https://i.pinimg.com/originals/1f/e7/39/1fe739844ef050b381e37ac7863ca7d8.jpg",
+        scene_title: "2. Bag"
+      },
+      {
+        id: 3,
+        scene_img: "https://i.pinimg.com/originals/e1/3f/bb/e13fbb0827878232115dac877563096e.jpg",
+        scene_title: "3. Drunk in the rain"
+      },
+      {
+        id: 4,
+        scene_img: "https://i.pinimg.com/originals/8f/df/5c/8fdf5c36d0a1e9be00d9f320706192ed.jpg",
+        scene_title: "4. Sea (Not Sunny)"
+      },
+      {
+        id: 5,
+        scene_img: "https://i.pinimg.com/originals/a7/d9/bc/a7d9bc3ea55c84afe607f25f0dcb6c2c.jpg",
+        scene_title: "5. Drunk and Hug"
+      }
+    ],
+
+    about_title: "Yeo Jeong-woo",
+    about_img:
+      "https://i.pinimg.com/originals/ba/c0/9d/bac09d872a11e8234f3911cf18bd7b1b.jpg",
+    about_bio_dob: "Unknown",
+    about_bio_age: "Can't Find",
+    about_bio_gender: "Male",
+    about_bio_sex: "Straight",
+    about_bio_occupation: "Unknown",
+    about_bio_alias: "Can't Remember",
+    about_description:
+      "Yeo Jeong-woo is a plastic surgeon who was popular but suffered from a medical accident.",
+    about_link:
+      "https://mydramalist.com/character/yeo-jeong-woo",
+
+    admire_img:
+      "https://i.pinimg.com/originals/a0/eb/64/a0eb6412a110430881d0735d6cae0fdf.jpg",
+    admire_reason:
+      "ချစ်ဖို့ကောင်းလို့",
+
+    gallery_imgs: [
+      {
+        id: 1,
+        gallery_img:
+          "https://i.pinimg.com/564x/88/46/cb/8846cb019fdbb7a2da3a2e91e7f0249d.jpg",
+      },
+      {
+        id: 2,
+        gallery_img:
+          "https://i.pinimg.com/564x/77/88/a7/7788a74e480fecd1b84fe260bb15217a.jpg",
+      },
+      {
+        id: 3,
+        gallery_img:
+          "https://i.pinimg.com/564x/6b/f2/2f/6bf22f534a020c6ca871f2446c159b5e.jpg",
+      },
+      {
+        id: 4,
+        gallery_img:
+          "https://i.pinimg.com/564x/79/ae/6f/79ae6f6bd03c1b7a14d403186544992c.jpg",
+      },
+      {
+        id: 5,
+        gallery_img:
+          "https://i.pinimg.com/736x/b5/db/66/b5db6630ff22426948c45f90a8797e6b.jpg",
+      },
+      {
+        id: 6,
+        gallery_img:
+          "https://i.pinimg.com/736x/0f/1f/ec/0f1fecd8666845d0bd2f8ba947d92464.jpg",
+      },
+      {
+        id: 7,
+        gallery_img:
+          "https://i.pinimg.com/736x/37/d7/6a/37d76a0faf099abe1afff300045f506e.jpg",
+      },
+      {
+        id: 8,
+        gallery_img:
+          "https://i.pinimg.com/originals/a4/a3/48/a4a348e159011492fa6128760cbfbe1c.jpg",
+      },
+      {
+        id: 9,
+        gallery_img:
+          "https://i.pinimg.com/originals/e4/98/ef/e498eff4a0dd102785b2d2cb59271322.jpg",
+      },
+      {
+        id: 10,
+        gallery_img:
+          "https://i.pinimg.com/originals/ba/c0/9d/bac09d872a11e8234f3911cf18bd7b1b.jpg",
+      },
+      {
+        id: 11,
+        gallery_img: "https://i.pinimg.com/originals/98/13/37/9813371ed669f52679b4350945891490.jpg"
+      },
+      {
+        id: 12,
+        gallery_img: "https://i.pinimg.com/originals/03/2c/12/032c125119cc84290a10c05310ec7987.jpg"
+      },
+      {
+        id: 13,
+        gallery_img: "https://i.pinimg.com/originals/68/63/1b/68631b5889de1168714e3b9693795a6a.jpg"
+      },
+      {
+        id: 14,
+        gallery_img: "https://i.pinimg.com/originals/17/8d/ea/178dea2038879748f8d5c8900d8baff1.jpg"
+      }
     ],
   },
 ];
