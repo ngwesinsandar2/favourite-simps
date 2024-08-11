@@ -133,7 +133,6 @@ const datas = [
 
     login_img: "/assets/images/login/cg.jpg",
   },
-
   {
     id: 2,
     movie_title: "Alchemy of Souls",
@@ -280,7 +279,6 @@ const datas = [
       },
     ],
   },
-
   {
     id: 3,
     movie_title: "Extraordinary You",
@@ -413,7 +411,6 @@ const datas = [
       },
     ],
   },
-
   {
     id: 4,
     movie_title: "Our Beloved Summer",
@@ -564,7 +561,6 @@ const datas = [
       },
     ],
   },
-
   {
     id: 5,
     movie_title: "The Witch: Part 1. The Subversion",
@@ -689,7 +685,6 @@ const datas = [
       },
     ],
   },
-
   {
     id: 6,
     movie_title: "Alice In Borderland",
@@ -808,7 +803,6 @@ const datas = [
       },
     ],
   },
-
   {
     id: 7,
     movie_title: "The K2",
@@ -926,6 +920,101 @@ const datas = [
           "https://i.pinimg.com/564x/41/55/e5/4155e55a141b884b03cba6a8ce9a25a5.jpg",
       },
     ],
+  },
+  {
+    id: 8,
+    movie_title: "Oshi no ko",
+    movie_link: "https://www.imdb.com/title/tt21030032/",
+    video: "https://v1.pinimg.com/videos/mc/720p/2a/c4/4d/2ac44d68024224d6116a07b1a62b0aa3.mp4",
+    ori_video_link: "https://www.pinterest.com/pin/1027383733742207589/",
+    primary_color: "#A1789B",
+    scenes: [
+      {
+        id: 1,
+        scene_img: "/assets/images/scenes/arima_kana/movieone.jpg",
+        scene_title: "1. First Female Lead Serie",
+      },
+      {
+        id: 2,
+        scene_img: "/assets/images/scenes/arima_kana/baseball.jpg",
+        scene_title: "2. Baseball",
+      },
+      {
+        id: 3,
+        scene_img: "/assets/images/scenes/arima_kana/singinggalaxy.jpg",
+        scene_title: "3. Galaxy Eyes",
+      },
+      {
+        id: 4,
+        scene_img: "/assets/images/scenes/arima_kana/season2play.jpg",
+        scene_title: "4. Play",
+      },
+    ],
+    about_title: "Arima Kana(My Girl)",
+    about_img: "/assets/images/about/arima_kana_about.jpg",
+    about_bio_dob: "-",
+    about_bio_age: "19 years old",
+    about_bio_gender: "Female",
+    about_bio_sex: "Straight",
+    about_bio_occupation: "High school Student, Actress, Idol, Youtuber, Singer",
+    about_bio_alias: "-",
+    about_description:
+      "Kana Arima「有あり馬ま かな, Arima Kana?」 is a major supporting character in Oshi no Ko. She is a childhood acquaintance of Aqua and Ruby Hoshino and a prodigious child actress, though her popularity has waned over the years. She is also the center of the revived idol group B-Komachi.",
+    about_link: "https://oshinoko.fandom.com/wiki/Kana_Arima",
+    admire_img: "/assets/images/admire/arima_kana_admire.jpg",
+    admire_reason:
+      "ဒီ character က ကိုယ်နဲ့ တော်တော်လေး close ဖြစ်တဲ့ character လို့ ခံစားရတယ် သူ့ရဲ့ negative အမြင်တွေ တွေးပုံတွေက ကိုယ်နဲ့ တူတယ်လို့ ခံစားရတယ် တော်တော်လေး close ဖြစ်မိတဲ့ character ပါပဲ နောက်ပြီး kawaii ဖြစ်တာကြောင့်လည်းပါပါတယ် Akane ကိုမြင်ရင် အမြင်ကတ်တဲ့ အထိ Arima Kana ဘက်ကနေ အား‌ပေးနေမိပြီး တော်တော်လေးကို ချစ်မိတဲ့ character တစ်ခုပါပဲ",
+    gallery_imgs: [
+      {
+        id: 1,
+        gallery_img: "/assets/images/scenes/arima_kana/movieone.jpg",
+      },
+      {
+        id: 2,
+        gallery_img: "/assets/images/admire/arima_kana_admire.jpg",
+      },
+      {
+        id: 3,
+        gallery_img: "/assets/images/scenes/arima_kana/singinggalaxy.jpg",
+      },
+      {
+        id: 4,
+        gallery_img: "/assets/images/scenes/arima_kana/season2play.jpg",
+      },
+      {
+        id: 5,
+        gallery_img: "https://i.pinimg.com/564x/75/95/ef/7595ef8ad9600384d0d7e179b1bf7ee4.jpg"
+      },
+      {
+        id: 6,
+        gallery_img: "https://i.pinimg.com/564x/1f/5e/ba/1f5eba59a37bc12c1dc59656e5624ec0.jpg"
+      },
+      {
+        id: 7,
+        gallery_img: "https://i.pinimg.com/736x/02/50/52/0250526537fb2e3726f5f44b3e32985b.jpg"
+      },
+      {
+        id: 8,
+        gallery_img: "https://i.pinimg.com/736x/c2/60/92/c26092db4f0fbfe0c86504458ee5c91e.jpg"
+      },
+      {
+        id: 9,
+        gallery_img: "https://i.pinimg.com/736x/a9/56/22/a956221dbdea9f421bc6c1d0d6370329.jpg"
+      },
+      {
+        id: 10,
+        gallery_img: "https://i.pinimg.com/564x/46/e9/f7/46e9f70e495385ec3fa3c66c556c0217.jpg"
+      },
+      {
+        id: 11,
+        gallery_img: "https://i.pinimg.com/736x/f1/d1/b3/f1d1b35c10dfce92f4ce4a4b4da51379.jpg"
+      },
+      {
+        id: 12,
+        gallery_img: "https://i.pinimg.com/736x/8f/d1/14/8fd114c8b3e4107b9190b894a5807977.jpg"
+      }
+    ],
+    login_img: "",
   },
 ];
 
